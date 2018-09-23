@@ -15,6 +15,10 @@ Main idea of Larafull is to create Laravel build with most useful packages in a 
 - **jeremykenedy/laravel-roles** - installed and configured roles and permissions package
 - **laravelcollective/html** - pretty forms and input for Blade
 
+## Tools scripts
+
+- ./tinker - launch tinker like ./ti [TAB]
+
 ## License etc
 
 Project was created from original https://github.com/laravel/laravel repository
