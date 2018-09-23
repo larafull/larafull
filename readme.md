@@ -2,7 +2,7 @@
 
 ## Idea of Larafull
 
-Main idea of Larafull is to create Laravel build with most useful in a box.
+Main idea of Larafull is to create Laravel build with most useful packages in a box.
 
 ## License
 
