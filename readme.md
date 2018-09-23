@@ -4,7 +4,7 @@
 
 Main idea of Larafull is to create Laravel build with most useful packages in a box.
 
-## License
+## License etc
 
 Project was created by classical composer command:
 
