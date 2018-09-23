@@ -1,4 +1,10 @@
-<h1>Larafull - Laravel build with most useful packages</h1>
+# Larafull - Laravel build with most useful packages
+
+## Quick installation
+
+```
+composer create-project --prefer-dist larafull/larafull:dev-master project_name
+```
 
 ## Idea of Larafull
 
@@ -10,12 +16,9 @@ Main idea of Larafull is to create Laravel build with most useful packages in a 
 
 ## License etc
 
-Project was created by classical composer command:
+Project was created from original https://github.com/laravel/laravel repository
 
-```
-composer create --prefer-dist laravel/laravel
-```
+## If you want to join:
 
-## Thanks for Laravel developers:
-
-https://github.com/laravel/laravel
+https://vk.com/it007
+vvmspace@gmail.com
