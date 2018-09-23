@@ -13,6 +13,7 @@ Main idea of Larafull is to create Laravel build with most useful packages in a 
 ## Installed and configured packages
 
 - **jeremykenedy/laravel-roles** - installed and configured roles and permissions package
+- **laravelcollective/html** - pretty forms and input for Blade
 
 ## License etc
 
