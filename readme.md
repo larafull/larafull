@@ -14,6 +14,7 @@ Main idea of Larafull is to create Laravel build with most useful packages in a 
 
 - **jeremykenedy/laravel-roles** - installed and configured roles and permissions package
 - **laravelcollective/html** - pretty forms and input for Blade
+- **sven/artisan-view** - allows you to create views like *php artisan make:view folder.view_name*
 
 ## Tools scripts
 
