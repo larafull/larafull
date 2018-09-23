@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "name": "larafull/larafull",
+    "description": "Larafull - Laravel build with most usefull packages.",
+    "keywords": ["framework", "laravel", "laravel packages", "larafull"],
     "license": "MIT",
     "type": "project",
     "require": {
@@ -40,7 +40,7 @@
     },
     "scripts": {
         "post-root-package-install": [
-            "@php -r \"file_exists('.env') || copy('.env.example', '.env');\""
+            "@php -r \"file_exists('.env') || copy('.env.example', '.env');\" && echo 'Larafull project created'"
         ],
         "post-create-project-cmd": [
             "@php artisan key:generate"
