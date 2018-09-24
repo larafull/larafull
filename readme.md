@@ -18,7 +18,7 @@ Main idea of Larafull is to create Laravel build with most useful packages in a 
 
 ## Tools scripts
 
-- ./tinker - launch tinker like ./ti [TAB]
+- **./tinker** - launch tinker like ./ti [TAB]
 
 ## License etc
 
@@ -27,4 +27,9 @@ Project was created from original https://github.com/laravel/laravel repository
 ## If you want to join:
 
 https://vk.com/it007
+
 vvmspace@gmail.com
+
+## P.S.:
+
+This is beta and it will be better.
