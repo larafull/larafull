@@ -83,7 +83,7 @@
                 </div>
 
                 <div class="links">
-                    <a href="{{ config('github', 'https://github.com/larafull/larafull') }}">GitHub</a>
+                    <a href="{{ config('app.github', 'https://github.com/larafull/larafull') }}">GitHub</a>
                 </div>
             </div>
         </div>
