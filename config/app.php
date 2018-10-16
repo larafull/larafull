@@ -53,6 +53,7 @@ return [
     */
 
     'url' => env('APP_URL', 'http://localhost'),
+    'github' => env('APP_GITHUB', 'https://github.com/larafull/larafull'),
 
     /*
     |--------------------------------------------------------------------------
